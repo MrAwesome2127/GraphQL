@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19395440_002Dc2f2_002D4420_002D8eee_002Da187dedb7601/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PostProductTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.UnitTest1.PostProductTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.UnitTest1.PostFileUpload&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.Authentication.GetQueryParameters&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.Authentication.PostLoginToken&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;3CF659BC-A9F1-413F-B1CC-F1F79365AA33/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
