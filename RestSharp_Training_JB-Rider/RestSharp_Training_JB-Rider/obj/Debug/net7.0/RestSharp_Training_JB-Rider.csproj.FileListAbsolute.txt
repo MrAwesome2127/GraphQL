@@ -284,3 +284,5 @@ C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharp_Training_JB-Rider\Res
 C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharp_Training_JB-Rider\RestSharp_Training_JB-Rider\obj\Debug\net7.0\RestSharp_Training_JB-Rider.pdb
 C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharp_Training_JB-Rider\RestSharp_Training_JB-Rider\obj\Debug\net7.0\RestSharp_Training_JB-Rider.genruntimeconfig.cache
 C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharp_Training_JB-Rider\RestSharp_Training_JB-Rider\obj\Debug\net7.0\ref\RestSharp_Training_JB-Rider.dll
+C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharp_Training_JB-Rider\RestSharp_Training_JB-Rider\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharp_Training_JB-Rider\RestSharp_Training_JB-Rider\bin\Debug\net7.0\Xunit.DependencyInjection.dll
