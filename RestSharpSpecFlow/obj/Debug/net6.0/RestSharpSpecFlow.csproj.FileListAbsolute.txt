@@ -1,0 +1,5 @@
+C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharpSpecFlow\obj\Debug\net6.0\RestSharpSpecFlow.csproj.AssemblyReference.cache
+C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharpSpecFlow\obj\Debug\net6.0\RestSharpSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharpSpecFlow\obj\Debug\net6.0\RestSharpSpecFlow.AssemblyInfoInputs.cache
+C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharpSpecFlow\obj\Debug\net6.0\RestSharpSpecFlow.AssemblyInfo.cs
+C:\Users\Coach\OneDrive\Documents\GitHub\GraphQL\RestSharpSpecFlow\obj\Debug\net6.0\RestSharpSpecFlow.csproj.CoreCompileInputs.cache

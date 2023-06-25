@@ -1,27 +1,20 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19395440_002Dc2f2_002D4420_002D8eee_002Da187dedb7601/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PostProductTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.UnitTest1.PostProductTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.UnitTest1.PostFileUpload&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.Authentication.GetQueryParameters&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.Authentication.PostLoginToken&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-    &lt;ProjectFile&gt;3CF659BC-A9F1-413F-B1CC-F1F79365AA33/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
-  &lt;/Or&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=52df973b_002Db15d_002D439a_002Daf50_002D77ba2994deb0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostProductTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=16c7ce07_002D0696_002D4257_002Da1a2_002D0a5f90d1ade2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetProductId" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.UnitTest1.PostProductTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9DB6A6C5-CCA2-455F-9348-51FC9DC368FB::net7.0::RestSharpSpecFlow.Features.BasicOperationFeature.GetProducts&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2DD6BCD7-E81C-4A49-B0C7-80F81353BEDB::net7.0::GraphQLTest.UnitTest1.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2DD6BCD7-E81C-4A49-B0C7-80F81353BEDB::net7.0::GraphQLTest.UnitTest1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cec7da70_002Daca8_002D4a8d_002Dbe02_002D2afa65bafc92/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostProductTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4cf1e99f_002Da39a_002D40c1_002D9191_002D4dee81f873f6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.UnitTest1.PostProductTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2DD6BCD7-E81C-4A49-B0C7-80F81353BEDB::net7.0::GraphQLTest.UnitTest1.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d87170d6_002D0df9_002D4c2b_002Db162_002Dbff2a400424d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetQueryParameters" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60a13bdf_002Dabac_002D4c8d_002D8f98_002D9210d628a63f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::3CF659BC-A9F1-413F-B1CC-F1F79365AA33::net7.0::RestSharp_Training_JB_Rider.UnitTest1.GetQueryParameters&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2DD6BCD7-E81C-4A49-B0C7-80F81353BEDB::net7.0::GraphQLTest.UnitTest1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
